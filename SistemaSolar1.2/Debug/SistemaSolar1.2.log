@@ -1,0 +1,5 @@
+﻿  Main_Sistemasolar12.c
+C:\Users\Diego\Desktop\ETSE\2 curso\cuatri 2\Computación Gráfica\Practicas\Practica 6\SistemaSolar1.2\Main_Sistemasolar12.c(311,38): warning C4028: parámetro formal 1 distinto de la declaración
+C:\Users\Diego\Desktop\ETSE\2 curso\cuatri 2\Computación Gráfica\Practicas\Practica 6\SistemaSolar1.2\Main_Sistemasolar12.c(311,47): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'objeto *'
+C:\Users\Diego\Desktop\ETSE\2 curso\cuatri 2\Computación Gráfica\Practicas\Practica 6\SistemaSolar1.2\Main_Sistemasolar12.c(311,40): warning C4024: 'glutTimerFunc': tipos distintos para el parámetro formal y el parámetro real 3
+  SistemaSolar1.2.vcxproj -> C:\Users\Diego\Desktop\ETSE\2 curso\cuatri 2\Computación Gráfica\Practicas\Practica 6\SistemaSolar1.2\Debug\SistemaSolar1.2.exe
